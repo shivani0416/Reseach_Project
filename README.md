@@ -245,7 +245,7 @@ CICIDS2017 CSV data. Follow these steps to run it.
 
 ### Step 1 --- Open the repository
 
-Open the GitHub repository and select the notebook file (for example,
+Open the GitHub repository and select the notebook file (
 `Concept_Drift_IDS.ipynb`).
 
 ### Step 2 --- Open it in Google Colab
@@ -376,3 +376,4 @@ Potential extensions identified in the research report include:
 Arts, Commerce & Science (Autonomous), New Panvel.\
 **Project title:** Analysis of Concept Drift in Machine Learning-Based
 Network Intrusion Detection.
+**Author-** Shivani Kawade.
